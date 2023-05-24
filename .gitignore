@@ -1,0 +1,8 @@
+# comments
+# also commets
+# __folder__/
+*.py
+hidden.file
+folder/
+folder/file.txt
+log/
